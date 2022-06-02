@@ -1,12 +1,11 @@
 title: Invasive Species in East Brunswick
 theme: minima
-author: Jonathan Y. 
-email: your-email@domain.com
+author: Jonathan Yu 
+email: jyu@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Dragonflies have been identified as an invasive species that can be found in East Brunswick. 
+  Invasive species in the U.S. pose a threat to different industries and wildlife. 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  Joofers
 
 show_excerpts: true # set to false to remove excerpts on the homepage
